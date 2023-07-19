@@ -10,7 +10,7 @@ def addition():
             break
         except ValueError:
             print("Invalid input! Please enter valid numbers.")
-            print("merging")
+            print("merging 2")
 
 
 addition()
